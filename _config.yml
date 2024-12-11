@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: Wasserleitung 4.0: Mit KI und Datenanalyse zum optimalen Betrieb und Wartung # the website title (if blank, full name will be used instead)
-first_name: 
+first_name: Wasserleitung 4.0
 middle_name: 
 last_name: 
 email: 
@@ -49,9 +49,9 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
-bib_search: true
+search_enabled: false # true
+socials_in_search: false # true
+bib_search: false #true
 
 # Dimensions
 max_width: 930px
