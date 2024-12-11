@@ -6,8 +6,6 @@ nav: true
 nav_order: 3
 ---
 
-
-
 ### Program Committee (Tentative)
 
 * tbd
