@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Wasserleitung 4.0: Mit KI und Datenanalyse zum optimalen Betrieb und Wartung"
+title: "About"
 permalink: /
 subtitle:
 nav_title: About
@@ -24,6 +24,7 @@ Dieser Workshop bietet eine Plattform für den interdisziplinären Austausch und
 * Dieser Workshop wird Forschende, Praktiker und Entscheidungsträger zusammenbringen, um gemeinsam Strategien für eine zukunftsfähige und verlustreduzierte Wasserversorgung zu entwickeln.
 
 ## Zielgruppe:
+
 Die Zielgruppe des Workshops umfasst eine breite Palette von Fachleuten und Interessengruppen, die in den Bereichen Wasserversorgung, Ingenieurwesen, Informatik und Umweltwissenschaften tätig sind. Dazu gehören:
 Wissenschaftler und Forscher: Experten aus den Bereichen Künstliche Intelligenz, maschinelles Lernen, Datenanalyse und Geoinformationssysteme (GIS), die an der Entwicklung neuer Technologien und Methoden zur Verbesserung der Wasserleitungsinspektion und Risikobewertung arbeiten.
 * Ingenieure und Techniker: Fachleute, die direkt an der Planung, dem Bau, der Wartung und der Überwachung von Wasserleitungssystemen beteiligt sind. Sie profitieren von den neuesten Erkenntnissen und Technologien, die im Workshop vorgestellt werden, um die Effizienz und Zuverlässigkeit ihrer Systeme zu verbessern.
