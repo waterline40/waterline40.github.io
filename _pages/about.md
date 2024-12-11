@@ -1,6 +1,6 @@
 ---
-layout: about
-post_title: "Wasserleitung 4.0: Mit KI und Datenanalyse zum optimalen Betrieb und Wartung"
+layout: page
+title: "Wasserleitung 4.0: Mit KI und Datenanalyse zum optimalen Betrieb und Wartung"
 permalink: /
 subtitle:
 nav_title: About
