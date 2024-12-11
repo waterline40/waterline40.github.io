@@ -12,6 +12,7 @@ Die effiziente und nachhaltige Wasserversorgung ist eine der akutesten Herausfor
 Der gezielte Einsatz vorausschauender Wartung (Predictive Maintenance) kann helfen, diese Verluste zu minimieren. Moderne datengetriebene Ansätze, kombiniert mit Künstlicher Intelligenz (KI), ermöglichen es, Defekte anhand von Umgebungsparametern oder historischen Daten ohne aktive Inspektion zu erkennen. Regelmäßige Inspektionen ergänzen diese Methoden, indem sie potenzielle Probleme frühzeitig identifizieren und so die Genauigkeit der Vorhersagen verbessern. Hierbei spielen Simulationen, Geoinformationssysteme (GIS), Datenanalyse und Sensordatenverarbeitung eine zentrale Rolle.
 Die Implementierung von KI-Technologien ist entscheidend für die Entwicklung smarter Wasserleitungsnetzwerke. Durch den Einsatz von maschinellem Lernen und neuronalen Netzwerken können komplexe Muster in Verbrauchs- und Sensordaten erkannt werden, was zu präziseren Vorhersagen und effizienteren Steuerungsstrategien führt. Ziel des Workshops ist es, Fachleute und Wissenschaftler*innen aus Informatik, Ingenieurwesen und Umweltwissenschaften zusammenzubringen, um aktuelle Forschungsergebnisse sowie praktische Anwendungen zu präsentieren und zu diskutieren.
 Dieser Workshop bietet eine Plattform für den interdisziplinären Austausch und die Entwicklung innovativer Lösungen zur Verbesserung der Inspektion und Risikobewertung von Wasserleitungen. Durch die Verbindung KI-gestützter Datenanalyse und vorausschauender Wartung kann ein bedeutender Beitrag zur nachhaltigen Wasserversorgung geleistet werden.
+
 ## Themen des Workshops:
 * Herausforderungen und Lösungen bei der Implementierung von Wasserleitungsnetzen (z.B. Frisch-, Trink-, Roh-, Regen- und Abwasser)
 * KI-Methoden zur Identifikation von Leckagen und Defekten
@@ -21,6 +22,7 @@ Dieser Workshop bietet eine Plattform für den interdisziplinären Austausch und
 * Hyperspektrale Datenverarbeitung zur Identifikation von Leckagen
 * Open Access and Source von Trainings- und Benchmark Datensätzen
 * Dieser Workshop wird Forschende, Praktiker und Entscheidungsträger zusammenbringen, um gemeinsam Strategien für eine zukunftsfähige und verlustreduzierte Wasserversorgung zu entwickeln.
+
 ## Zielgruppe:
 Die Zielgruppe des Workshops umfasst eine breite Palette von Fachleuten und Interessengruppen, die in den Bereichen Wasserversorgung, Ingenieurwesen, Informatik und Umweltwissenschaften tätig sind. Dazu gehören:
 Wissenschaftler und Forscher: Experten aus den Bereichen Künstliche Intelligenz, maschinelles Lernen, Datenanalyse und Geoinformationssysteme (GIS), die an der Entwicklung neuer Technologien und Methoden zur Verbesserung der Wasserleitungsinspektion und Risikobewertung arbeiten.

@@ -5,6 +5,7 @@ permalink: /cfp
 nav: true
 nav_order: 2
 ---
+
 ### Call for Papers
 Wir laden Sie herzlich ein, Ihre Forschungsergebnisse und innovativen Ansätze im Bereich der Künstlichen Intelligenz (KI) bei der Wasserleitungsinspektion und Risikobewertung auf unserem Workshop im Rahmen des Informatik Festivals 2025 zu präsentieren. Dieser Workshop bietet eine Plattform für den interdisziplinären Austausch und die Diskussion neuester Entwicklungen und Anwendungen in diesem wichtigen Bereich.
 Themenbereiche: Wir suchen Beiträge zu folgenden Themen, sind aber nicht auf diese beschränkt:
@@ -15,6 +16,7 @@ Themenbereiche: Wir suchen Beiträge zu folgenden Themen, sind aber nicht auf di
 * Simulationen und Modellierungen zur Risikobewertung und Entscheidungsunterstützung
 * Fallstudien und praktische Anwendungen von KI in der Wasserversorgung
 * Nachhaltige und effiziente Steuerungsstrategien für Smart Water Networks
+
 ## Einreichungsrichtlinien:
 Beiträge sollten original und unveröffentlicht sein und dürfen nicht gleichzeitig zur Begutachtung bei anderen Konferenzen oder Workshops eingereicht sein.
 Die maximale Länge der Beiträge beträgt 8 Seiten, einschließlich Abbildungen und Referenzen.
