@@ -11,5 +11,5 @@ nav_order: 3
 * tbd
 
 ### General Chairs
-* Christopher Metz, Data Scientist, Rosenxt Creation Center GmbH
-* Jürgen Gräfenstein, Head of Software & AI, Rosenxt Creation Center GmbH
+* Christopher Metz, Data Scientist, Rosenxt
+* Jürgen Gräfenstein, Head of Software & AI, Rosenxt

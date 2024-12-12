@@ -6,10 +6,9 @@ nav: true
 nav_order: 2
 ---
 
-### Call for Papers
 Wir laden Sie herzlich ein, Ihre Forschungsergebnisse und innovativen Ansätze im Bereich der Künstlichen Intelligenz (KI) bei der Wasserleitungsinspektion und Risikobewertung auf unserem Workshop im Rahmen des Informatik Festivals 2025 zu präsentieren. Dieser Workshop bietet eine Plattform für den interdisziplinären Austausch und die Diskussion neuester Entwicklungen und Anwendungen in diesem wichtigen Bereich.
 
-Themenbereiche: Wir suchen Beiträge zu folgenden Themen, sind aber nicht auf diese beschränkt:
+**Themenbereiche:** Wir suchen Beiträge zu folgenden Themen, sind aber nicht auf diese beschränkt:
 * Datengetriebene vorausschauende Wartung (Predictive Maintenance) in der Wasserversorgung
 * Einsatz von maschinellem Lernen und neuronalen Netzwerken zur Erkennung von Leckagen und Rohrbrüchen
 * Geographische Informationssysteme (GIS) und ihre Anwendung in der Wasserleitungsinspektion

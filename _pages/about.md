@@ -5,7 +5,7 @@ permalink: /
 subtitle:
 nav_title: About
 ---
-# Mit KI und Datenanalyse zur optimalen Wartung und Betrieb
+## Mit KI und Datenanalyse zur optimalen Wartung und Betrieb
 
 ### Co-located zum Informatik Festival 2025, in Potsdam vom 16. bis 19. September 2025
 

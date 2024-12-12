@@ -14,6 +14,5 @@ nav_order: 4
 {: .table-striped}
 -->
 
-## Workshop Programm
 
 Coming soon!
