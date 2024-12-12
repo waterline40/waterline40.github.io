@@ -21,22 +21,23 @@ Dieser Workshop bietet eine Plattform für den interdisziplinären Austausch und
 * Erklärbare KI für Wasserleitungsnetzwerke
 * Nutzung von Neuronalen Netzen zur Anomalie- und Drift-Erkennung
 * Hyperspektrale Datenverarbeitung zur Identifikation von Leckagen
-* Open Access and Source von Trainings- und Benchmark Datensätzen
-* Dieser Workshop wird Forschende, Praktiker und Entscheidungsträger zusammenbringen, um gemeinsam Strategien für eine zukunftsfähige und verlustreduzierte Wasserversorgung zu entwickeln.
+* Open Access und Source von Trainings- und Benchmark Datensätzen
+
 
 ## Zielgruppe:
 
 Die Zielgruppe des Workshops umfasst eine breite Palette von Fachleuten und Interessengruppen, die in den Bereichen Wasserversorgung, Ingenieurwesen, Informatik und Umweltwissenschaften tätig sind. Dazu gehören:
-Wissenschaftler und Forscher: Experten aus den Bereichen Künstliche Intelligenz, maschinelles Lernen, Datenanalyse und Geoinformationssysteme (GIS), die an der Entwicklung neuer Technologien und Methoden zur Verbesserung der Wasserleitungsinspektion und Risikobewertung arbeiten.
-* Ingenieure und Techniker: Fachleute, die direkt an der Planung, dem Bau, der Wartung und der Überwachung von Wasserleitungssystemen beteiligt sind. Sie profitieren von den neuesten Erkenntnissen und Technologien, die im Workshop vorgestellt werden, um die Effizienz und Zuverlässigkeit ihrer Systeme zu verbessern.
-* Wasserversorgungsunternehmen und -betreiber: Entscheidungsträger und Manager, die für die Verwaltung und den Betrieb von Wasserversorgungssystemen verantwortlich sind. Sie erhalten Einblicke in innovative Ansätze zur Reduzierung von Wasserverlusten und zur Verbesserung der Wartungsstrategien.
-* Umweltwissenschaftler und -berater: Fachleute, die sich mit den ökologischen und nachhaltigen Aspekten der Wasserversorgung beschäftigen. Sie können die im Workshop vorgestellten Technologien und Methoden nutzen, um die Umweltauswirkungen von Wasserleitungsdefekten zu minimieren.
-* Regulierungsbehörden und politische Entscheidungsträger: Vertreter von Regierungsbehörden und politischen Institutionen, die für die Regulierung und Überwachung der Wasserversorgung zuständig sind. Sie können die im Workshop gewonnenen Erkenntnisse nutzen, um Richtlinien und Vorschriften zu entwickeln, die die Sicherheit und Nachhaltigkeit der Wasserversorgung verbessern.
-* Technologieanbieter und Start-ups: Unternehmen und Start-ups, die innovative Lösungen und Produkte für die Wasserleitungsinspektion und -wartung entwickeln. Der Workshop bietet ihnen eine Plattform, um ihre Technologien vorzustellen und potenzielle Partnerschaften zu knüpfen.
-* Durch die Zusammenführung dieser vielfältigen Zielgruppen fördert der Workshop den interdisziplinären Austausch und die Zusammenarbeit, um gemeinsam innovative Lösungen für die Herausforderungen der Wasserleitungsinspektion und Risikobewertung zu entwickeln.
+* **Wissenschaftler und Forscher:** Experten aus den Bereichen Künstliche Intelligenz, maschinelles Lernen, Datenanalyse und Geoinformationssysteme (GIS), die an der Entwicklung neuer Technologien und Methoden zur Verbesserung der Wasserleitungsinspektion und Risikobewertung arbeiten.
+* **Ingenieure und Techniker:** Fachleute, die direkt an der Planung, dem Bau, der Wartung und der Überwachung von Wasserleitungssystemen beteiligt sind. Sie profitieren von den neuesten Erkenntnissen und Technologien, die im Workshop vorgestellt werden, um die Effizienz und Zuverlässigkeit ihrer Systeme zu verbessern.
+* **Wasserversorgungsunternehmen und -betreiber:** Entscheidungsträger und Manager, die für die Verwaltung und den Betrieb von Wasserversorgungssystemen verantwortlich sind. Sie erhalten Einblicke in innovative Ansätze zur Reduzierung von Wasserverlusten und zur Verbesserung der Wartungsstrategien.
+* **Umweltwissenschaftler und -berater:** Fachleute, die sich mit den ökologischen und nachhaltigen Aspekten der Wasserversorgung beschäftigen. Sie können die im Workshop vorgestellten Technologien und Methoden nutzen, um die Umweltauswirkungen von Wasserleitungsdefekten zu minimieren.
+* **Regulierungsbehörden und politische Entscheidungsträger:** Vertreter von Regierungsbehörden und politischen Institutionen, die für die Regulierung und Überwachung der Wasserversorgung zuständig sind. Sie können die im Workshop gewonnenen Erkenntnisse nutzen, um Richtlinien und Vorschriften zu entwickeln, die die Sicherheit und Nachhaltigkeit der Wasserversorgung verbessern.
+* **Technologieanbieter und Start-ups:** Unternehmen und Start-ups, die innovative Lösungen und Produkte für die Wasserleitungsinspektion und -wartung entwickeln. Der Workshop bietet ihnen eine Plattform, um ihre Technologien vorzustellen und potenzielle Partnerschaften zu knüpfen.
+
+Durch die Zusammenführung dieser vielfältigen Zielgruppen fördert der Workshop den interdisziplinären Austausch und die Zusammenarbeit, um gemeinsam innovative Lösungen für die Herausforderungen der Wasserleitungsinspektion und Risikobewertung zu entwickeln.
 
 
 ## Contact
 
-For any questions, please contact us at [cmetz@rosen-nxt.com](mailto:cmetz@rosen-nxt.com).
+Bei Fragen wenden Sie sich bitte an das Orga-Team [cmetz@rosen-nxt.com](mailto:cmetz@rosen-nxt.com).
 
