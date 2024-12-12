@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Organizers
+title: Organisatoren
 permalink: /organizers
 nav: true
 nav_order: 3
