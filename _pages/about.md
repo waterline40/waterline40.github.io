@@ -8,7 +8,7 @@ nav_title: About
 
 ## Mit KI und Datenanalyse zur optimalen Wartung und Betrieb
 
-### Co-located zum Informatik Festival 2025, in Potsdam vom 16. bis 19. September 2025
+### Integriert in das Informatik Festival 2025, in Potsdam vom 16. bis 19. September 2025
 
 Die effiziente und nachhaltige Wasserversorgung ist eine der akutesten Herausforderungen des 21. Jahrhunderts. In Deutschland gehen jährlich rund 473 Milliarden Liter Wasser durch defekte Wasserleitungen verloren. Leckagen und Rohrbrüche sind die Hauptursachen dieses Verlusts, und das Risiko solcher Defekte steigt mit dem Alter der Wasserleitungen. Die heterogene Struktur der Wasserleitungsnetze, bestehend aus Materialien mit unterschiedlichen Lebensdauern und Eigenschaften, führt zu einer Vielzahl an Anomalien und potenziellen Defekten, die die Wasserversorgung erheblich beeinträchtigen können. Betreiber stehen somit vor großen Herausforderungen im Risikomanagement.
 Der gezielte Einsatz vorausschauender Wartung (Predictive Maintenance) kann helfen, diese Verluste zu minimieren. Moderne datengetriebene Ansätze, kombiniert mit Künstlicher Intelligenz (KI), ermöglichen es, Defekte anhand von Umgebungsparametern oder historischen Daten ohne aktive Inspektion zu erkennen. Regelmäßige Inspektionen ergänzen diese Methoden, indem sie potenzielle Probleme frühzeitig identifizieren und so die Genauigkeit der Vorhersagen verbessern. Hierbei spielen Simulationen, Geoinformationssysteme (GIS), Datenanalyse und Sensordatenverarbeitung eine zentrale Rolle.
