@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Wasserleitung 4.0 # the website title (if blank, full name will be used instead)
-post_title: Wasserleitung - Mit KI und Datenanalyse zum optimalen Betrieb und Wartung
-first_name: Wasserleitung 4.0
+title: Smarte Wasserleitung # the website title (if blank, full name will be used instead)
+post_title: Smarte Wasserleitung - Mit KI und Datenanalyse zum optimalen Betrieb und Wartung
+first_name: Smarte Wasserleitung
 middle_name: 
 last_name: 
 email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Webseite fuer den Workshop Wasserleitung 4.0
+  Webseite fuer den Workshop Smarte Wasserleitung
 footer_text:  > # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.   # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.    
 keywords: academic-website, Water Line, Wasserleitung, KI, AI # add your own keywords or leave empty
@@ -133,7 +133,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Waterline 4.0 # blog_name will be displayed in your blog page
+blog_name: Smart Waterline # blog_name will be displayed in your blog page
 blog_description: Workshop Website
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -162,7 +162,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: Water Line 4.0 # put your disqus shortname
+disqus_shortname: Smart Water Line # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
