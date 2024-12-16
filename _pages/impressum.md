@@ -5,9 +5,12 @@ permalink: /impressum
 nav: false
 ---
 
-Verantwortlich:
+### Impressum
 
-Christopher Metz
-[cmetz@rosen-nxt.com](mailto:cmetz@rosen-nxt.com)
-Seitenkanal 5,
-49809 Lingen (Ems)
+Christopher Metz <br>
+Am Seitenkanal 8, <br>
+49809 Lingen (Ems) <br>
+
+## Kontakt
+Telefon: 059085597128 <br>
+E-Mail: [cmetz@rosen-nxt.com](mailto:cmetz@rosen-nxt.com)
