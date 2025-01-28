@@ -18,12 +18,19 @@ Wir laden Sie herzlich ein, Ihre Forschungsergebnisse und innovativen Ansätze i
 * Nachhaltige und effiziente Steuerungsstrategien für Smart Water Networks
 
 ## Einreichungsrichtlinien:
-Beiträge sollten original und unveröffentlicht sein und dürfen nicht gleichzeitig zur Begutachtung bei anderen Konferenzen oder Workshops eingereicht sein. Die maximale Länge der Beiträge beträgt 8 Seiten, einschließlich Abbildungen und Referenzen. Beiträge müssen im PDF-Format eingereicht werden und den Formatierungsrichtlinien des Informatik Festivals 2025 entsprechen.  Weitere Informationen zu unseren Formatvorgaben und Richtlinien für Autor*innen finden unter [Autorenrichtlinien](https://gi.de/service/publikationen/lni)
+Beiträge sollten original und unveröffentlicht sein und dürfen nicht gleichzeitig zur Begutachtung bei anderen Konferenzen oder Workshops eingereicht sein. Die Seitenbegrenzungen sind einschließlich Abbildungen und Referenzen. Beiträge müssen im PDF-Format eingereicht werden und den Formatierungsrichtlinien des Informatik Festivals 2025 entsprechen.  Weitere Informationen zu unseren Formatvorgaben und Richtlinien für Autor*innen finden unter [Autorenrichtlinien](https://gi.de/service/publikationen/lni)
 Ein Template ist in [Overleaf](https://www.overleaf.com/latex/templates/template-for-lecture-notes-in-informatics-lni-manuscripts/hydnrjckjwrp) verfügbar und kann für die Einreichung der Beiträge genutzt werden.
+
+Folgende Einreichungen sind möglich:
+* Full Paper: 12 Seiten
+* Short Paper: 6 Seiten
+* Work-In-Progress-Paper: 3 Seiten
+
+Beiträge können in **deutscher** und **englischer** Sprache verfasst werden.
 
 Der Tagungsband zum INFORMATIK FESTIVAL 2025 wird allen Teilnhemenden in elektronischer Form zur Verfügung gestellt.
 
-**Einreichungsprozess:** Bitte reichen Sie Ihre Beiträge über das Konferenzmanagementsystem Easychair, unter folgendem [Link](https://easychair.org/waterline40) ein. Weitere Informationen zum Einreichungsprozess finden Sie auf der Website des Informatik Festivals 2025.
+**Einreichungsprozess:** Bitte reichen Sie Ihre Beiträge über das Konferenzmanagementsystem Easychair, unter folgendem [Link](https://easychair.org/conferences/?conf=smawa2025) ein. Weitere Informationen zum Einreichungsprozess finden Sie auf der Website des Informatik Festivals 2025.
 
 **Kontakt:** Für Fragen und weitere Informationen wenden Sie sich bitte an das Organisationsteam des Workshops unter: [cmetz@rosen-nxt.com](mailto:cmetz@rosen-nxt.com).
 
