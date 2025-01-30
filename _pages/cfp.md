@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-Wir laden Sie herzlich ein, Ihre Forschungsergebnisse und innovativen Ansätze im Bereich der Künstlichen Intelligenz (KI) bei der Wasserleitungsinspektion und Risikobewertung auf unserem Workshop im Rahmen des Informatik Festivals 2025 zu präsentieren. Dieser Workshop bietet eine Plattform für den interdisziplinären Austausch und die Diskussion neuester Entwicklungen und Anwendungen in diesem wichtigen Bereich.
+Wir laden Sie herzlich ein, Ihre Forschungsergebnisse, Projektberichte, Fallstudien, innovativen Ansätze im Bereich der Künstlichen Intelligenz (KI) bei der Wasserleitungsinspektion und Risikobewertung auf unserem Workshop zu präsentieren. Wir bietet eine Plattform für den interdisziplinären Austausch und die Diskussion neuester Entwicklungen und Anwendungen in diesem wichtigen Bereich.
 
 **Themenbereiche:** Wir suchen Beiträge zu folgenden Themen, sind aber nicht auf diese beschränkt:
 * Datengetriebene vorausschauende Wartung (Predictive Maintenance) in der Wasserversorgung
@@ -26,9 +26,8 @@ Folgende Einreichungen sind möglich:
 * Short Paper: 6 Seiten
 * Work-In-Progress-Paper: 3 Seiten
 
-Beiträge können in **deutscher** und **englischer** Sprache verfasst werden.
+Beiträge können in **deutscher** und **englischer** Sprache verfasst werden.  
 
-Der Tagungsband zum INFORMATIK FESTIVAL 2025 wird allen Teilnhemenden in elektronischer Form zur Verfügung gestellt.
 
 **Einreichungsprozess:** Bitte reichen Sie Ihre Beiträge über das Konferenzmanagementsystem Easychair, unter folgendem [Link](https://easychair.org/conferences/?conf=smawa2025) ein. Weitere Informationen zum Einreichungsprozess finden Sie auf der Website des Informatik Festivals 2025.
 
