@@ -40,5 +40,5 @@ Wir freuen uns auf Ihre Beiträge und darauf, Sie auf dem Informatik Festival 20
 * <b style="color:green"> 15. April 2025:</b>  Einreichungsfrist.
 * <b style="color:green"> 10. Mai 2025:</b> Benachrichtigung über Annahme.
 * <b style="color:green"> 31. Mai 2025:</b> Camera ready papers.
-* <b style="color:green"> 16. September 2025: </b> Workshop.
+* <b style="color:green"> 19. September 2025: </b> Workshop.
 
