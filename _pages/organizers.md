@@ -8,7 +8,9 @@ nav_order: 3
 
 ### Program Committee (Tentative)
 
-* tbd
+* Lena Steinmann - Data Science Center Universität Bremen
+* André Artelt - Bielefeld University, Germany
+* Barbara Hammer - Bielefeld University, Germany
 
 ### General Chairs
 * Christopher Metz, Data Scientist, Rosenxt
