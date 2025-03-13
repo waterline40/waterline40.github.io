@@ -11,6 +11,7 @@ nav_order: 3
 * Lena Steinmann - Data Science Center Universität Bremen
 * André Artelt - Bielefeld University, Germany
 * Barbara Hammer - Bielefeld University, Germany
+* Maik Fruhner - Rosenxt, Germany
 
 ### General Chairs
 * Christopher Metz, Data Scientist, Rosenxt
