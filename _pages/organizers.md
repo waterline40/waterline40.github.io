@@ -12,6 +12,7 @@ nav_order: 3
 * André Artelt - Bielefeld University, Germany
 * Barbara Hammer - Bielefeld University, Germany
 * Maik Fruhner - Rosenxt, Germany
+* Steffen Greiser - Hochschule Osnabrück
 
 ### General Chairs
 * Christopher Metz, Data Scientist, Rosenxt
