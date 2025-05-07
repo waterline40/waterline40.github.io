@@ -36,9 +36,9 @@ Beiträge können in **deutscher** und **englischer** Sprache verfasst werden.
 Wir freuen uns auf Ihre Beiträge und darauf, Sie auf dem Informatik Festival 2025 begrüßen zu dürfen!
 
 ### Important Dates
-
-* ~~<b style="color:red"> 15. April 2025:</b>~~ <b style="color:green"> 06. Mai 2025:</b> Einreichungsfrist.
-* ~~<b style="color:red"> 10. Mai 2025:</b>~~  <b style="color:green"> 02. Juni 2025:</b> Benachrichtigung über Annahme.
-* ~~<b style="color:red"> 31. Mai 2025:</b>~~ <b style="color:green"> 13. Juni 2025:</b> Camera ready papers.
-* <b style="color:green"> 19. September 2025: </b> Workshop.
+Der Workshop wird nicht wie geplant stattfinden uns ist Abgesagt worden.
+* ~~<b style="color:red"> 15. April 2025:</b> <b style="color:green"> 06. Mai 2025:</b> Einreichungsfrist.~~
+* ~~<b style="color:red"> 10. Mai 2025:</b>  <b style="color:green"> 02. Juni 2025:</b> Benachrichtigung über Annahme.~~
+* ~~<b style="color:red"> 31. Mai 2025:</b> <b style="color:green"> 13. Juni 2025:</b> Camera ready papers.~~
+* ~~<b style="color:green"> 19. September 2025: </b> Workshop.~~
 
